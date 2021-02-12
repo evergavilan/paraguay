@@ -1,0 +1,18 @@
+#EXTM3U
+
+#EXTINF:0 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="PY",telefuturo
+http://tv.nousiptv.com:8080/Nancy/12345/7529
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PY",SNT
+http://tv.nousiptv.com:8080/Nancy/12345/7425
+
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh_-qOkIlUpa9DOef3RvCJ08IARRFPozFctQ&usqp=CAU" group-title="PY",UNICANAL
+http://tv.nousiptv.com:8080/Nancy/12345/7434
+
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2013/03/La-Tele.jpg?fit=500%2C375&ssl=1" group-title="PY",LA TELE
+http://tv.nousiptv.com:8080/Nancy/12345/23224
+
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Canal_9_Noticias.jpg" group-title="PY",C9N
+http://tv.nousiptv.com:8080/Nancy/12345/7437
+
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://www.google.com/search?q=logo+tigo+sports&tbm=isch&ved=2ahUKEwiMy4XAgOPuAhWVNbkGHZJFA7kQ2-cCegQIABAC&oq=logo+tigo+sport&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQARgAMgIIADICCAAyBggAEAgQHjIGCAAQCBAeMgYIABAIEB46BAgjECc6BAgAEB46BQgAELEDOggIABCxAxCDAVCNmwdYrbsHYObIB2gAcAB4AIAB1wGIAeoOkgEGMi4xMS4xmAEAoAEBwAEB&sclient=mobile-gws-wiz-img&ei=M8AlYMzlHJXr5OUPkouNyAs&bih=652&biw=412&client=ms-android-samsung&prmd=ivn#imgrc=Nv9vSZbpV52ZwM" group-title="PY",TIGO SPORT
+http://tv.nousiptv.com:8080/Nancy/12345/7450
