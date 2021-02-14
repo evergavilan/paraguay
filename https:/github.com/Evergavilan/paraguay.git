@@ -76,5 +76,9 @@ http://tv.nousiptv.com:8080/Nancy/12345/43640
 
 
 
+#EXTINF:0 tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="AR",TRUTV
+http://tv.nousiptv.com:8080/Nancy/12345/3231
+
+
 
 
